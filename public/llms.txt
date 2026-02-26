@@ -1,57 +1,47 @@
-# ג'ו ויסטריך — Generative Engine Optimization Map
-
-> A physiotherapy practice led by an experienced, academically certified practitioner who takes a holistic approach to pain management. The philosophy centers on listening to the body's signals through pain, integrating mental and emotional aspects into the recovery process. The practice emphasizes personal care and patient accompaniment throughout the healing journey, combining clinical expertise with compassionate support.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://-ba9e01dc.zappy5.app
+https://example.com
 Experience compassionate physiotherapy that listens to your body&#39;s pain signals. Expert treatment combining clinical excellence with emotional support for lasting relief.
 
 ### Approach
-https://-ba9e01dc.zappy5.app/approach
+https://example.com/approach
 Discover a unique approach integrating mental, emotional, and physical healing. Academic expertise meets personalized care for comprehensive pain recovery.
 
 ### Services
-https://-ba9e01dc.zappy5.app/services
+https://example.com/services
 Specialized physiotherapy treatment for chronic pain, neck tension, and shoulder discomfort. Academically certified care tailored to your body&#39;s unique healing journey.
 
 ### Contact
-https://-ba9e01dc.zappy5.app/contact
+https://example.com/contact
 Ready to find lasting relief? Connect with an experienced physiotherapist who truly listens. Book your consultation and begin healing with personalized support.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-ba9e01dc.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-ba9e01dc.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-ba9e01dc.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About ג'ו ויסטריך
-A physiotherapy practice led by an experienced, academically certified practitioner who takes a holistic approach to pain management. The philosophy centers on listening to the body's signals through pain, integrating mental and emotional aspects into the recovery process. The practice emphasizes personal care and patient accompaniment throughout the healing journey, combining clinical expertise with compassionate support.
-
-## Target Audience
-potential clients seeking pain relief
-
-## Industry
-healthcare
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-ba9e01dc.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-ba9e01dc.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
